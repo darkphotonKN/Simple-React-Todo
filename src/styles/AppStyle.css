@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+.App {
+  padding-top: 30px;
+  height: 100vh; }
+
+.btn.btn-danger {
+  margin-top: -15px;
+  margin-left: 92%; }
+
+span.input-group-texts {
+  text-align: left; }
+
+/*# sourceMappingURL=AppStyle.css.map */
